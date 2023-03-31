@@ -1,9 +1,10 @@
+import React from "react";
 import './Card.scss'
 import { Link } from 'react-router-dom'
 
 const Card = ({item}) => {
   return (
-    <Link to={`/product/${item.id}`}>
+    <Link className="link" to={`/product/${item.id}`}>
       <div className='card'>
         <div className="image">
           {item.isNew && <span>New Season</span>}
