@@ -27,7 +27,6 @@ const FeaturedProducts = ({type}) => {
             id: 3,
             img:"https://images.pexels.com/photos/1381556/pexels-photo-1381556.jpeg?auto=compress&cs=tinysrgb&w=1600",
             title: "Dolor",
-            isNew: true,
             oldPrice: 19,
             price: 12,
 
@@ -36,7 +35,6 @@ const FeaturedProducts = ({type}) => {
             id: 4,
             img:"https://images.pexels.com/photos/4966995/pexels-photo-4966995.jpeg?auto=compress&cs=tinysrgb&w=1600",
             title: "Sit amet",
-            isNew: true,
             oldPrice: 19,
             price: 12,
 
