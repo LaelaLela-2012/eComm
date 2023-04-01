@@ -6,8 +6,8 @@ const List = () => {
         const data = [
         {
             id: 1,
-            img:"https://images.pexels.com/photos/2043590/pexels-photo-2043590.jpeg?auto=compress&cs=tinysrgb&w=1600",
-            img2: "https://images.pexels.com/photos/852860/pexels-photo-852860.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            img:"https://images.pexels.com/photos/6532131/pexels-photo-6532131.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            img2: "https://images.pexels.com/photos/6532099/pexels-photo-6532099.jpeg?auto=compress&cs=tinysrgb&w=1600",
             title: "Long Sleeve Graphic T-shirt",
             isNew: true,
             oldPrice: 19,
