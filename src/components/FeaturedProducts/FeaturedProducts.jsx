@@ -3,12 +3,12 @@ import './FeaturedProducts.scss'
 
 const FeaturedProducts = ({type}) => {
 
-    const data = [
+        const data = [
         {
             id: 1,
-            img:"https://images.pexels.com/photos/2043590/pexels-photo-2043590.jpeg?auto=compress&cs=tinysrgb&w=1600",
-            img2: "https://images.pexels.com/photos/852860/pexels-photo-852860.jpeg?auto=compress&cs=tinysrgb&w=1600",
-            title: "Lorem",
+            img:"https://images.pexels.com/photos/5885841/pexels-photo-5885841.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            img2: "https://images.pexels.com/photos/5886045/pexels-photo-5886045.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            title: "Long Sleeve Graphic T-shirt",
             isNew: true,
             oldPrice: 19,
             price: 12,
@@ -16,8 +16,8 @@ const FeaturedProducts = ({type}) => {
         },
         {
             id: 2,
-            img:"https://images.pexels.com/photos/1721558/pexels-photo-1721558.jpeg?auto=compress&cs=tinysrgb&w=1600",
-            title: "Ipsum",
+            img:"https://images.pexels.com/photos/158648/girl-coat-old-coat-brown-coat-158648.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            title: "Coat",
             isNew: true,
             oldPrice: 19,
             price: 12,
@@ -25,16 +25,16 @@ const FeaturedProducts = ({type}) => {
         },
         {
             id: 3,
-            img:"https://images.pexels.com/photos/1381556/pexels-photo-1381556.jpeg?auto=compress&cs=tinysrgb&w=1600",
-            title: "Dolor",
+            img:"https://images.pexels.com/photos/1007018/pexels-photo-1007018.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            title: "Skirt",
             oldPrice: 19,
             price: 12,
 
         },
         {
             id: 4,
-            img:"https://images.pexels.com/photos/4966995/pexels-photo-4966995.jpeg?auto=compress&cs=tinysrgb&w=1600",
-            title: "Sit amet",
+            img:"https://images.pexels.com/photos/33622/fashion-model-beach-hat.jpg",
+            title: "hat",
             oldPrice: 19,
             price: 12,
 
